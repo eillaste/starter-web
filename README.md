@@ -4,6 +4,8 @@ This is a simple project
 
 ## Introduction
 
+Example text
+
 ## Purpose
 
 ## Deployment
