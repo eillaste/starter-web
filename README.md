@@ -16,6 +16,8 @@ Ohohohohoh
 
 ## How To Contribute
 
+just call me
+
 ### Copyright
 
 2018 Git.Training
