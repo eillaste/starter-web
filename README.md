@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple project. Another sentence for rebasing example, then more changes from myfeature branch too.
+This is a simple project. Another sentence for rebasing example, then more changes from myfeature branch too. Emergency fix
 
 ## Introduction
 
