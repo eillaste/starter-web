@@ -20,4 +20,4 @@ just call me
 
 ### Copyright
 
-2018 Git.Training
+2018 Git.Training.Ya
